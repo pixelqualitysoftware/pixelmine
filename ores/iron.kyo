@@ -3,8 +3,8 @@ byte toughness: 1
 byte amount: 0
 int maxY: 75
 int minY: -42
-uint value: 10
-uint price: 60
+uint priceSELL: 10
+uint priceBUY: 60
 arr<byte> <-dropAMOUNT
         1
         4
