@@ -1,0 +1,13 @@
+str name: "Tin"
+byte toughness: 1
+byte amount: 0
+int minY: 45
+int maxY: 90
+
+uint priceSELL: 7
+uint priceBUY: 355
+
+arr<byte> <-dropAMOUNT
+    1
+    6
+->
