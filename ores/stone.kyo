@@ -1,0 +1,14 @@
+str name: "Stone"
+byte toughness: 0
+byte amount: 0
+int maxY: 99
+int minY: 1
+uint priceSELL: 3
+| price (you can't buy stone... why would you?)
+uint priceBUY: empty
+| you can get from 1 to 3 stone 
+| per ore mined
+arr<byte> <-dropAMOUNT
+        1
+        3
+->

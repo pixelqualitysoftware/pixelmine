@@ -1,0 +1,11 @@
+str name: "Gold"
+byte toughness: 3
+byte amount: 0
+int maxY: 67
+int minY: -32
+uint value: 25
+uint price: 115
+arr<byte> <-dropAMOUNT
+        1
+        3
+->

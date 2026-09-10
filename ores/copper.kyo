@@ -1,0 +1,11 @@
+str name: "Copper"
+byte toughness: 2
+byte amount: 0
+int maxY: 94
+int minY: 66
+uint priceSELL: 4
+uint priceBUY: 245
+arr<byte> <-dropAMOUNT
+        1
+        8
+->
