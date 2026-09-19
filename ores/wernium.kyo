@@ -1,0 +1,10 @@
+str name: "wernium"
+byte toughness: 6
+short minY: -67
+short maxY: 67
+arr <-dropAMOUNT
+  6
+  7
+->
+ushort priceBUY: 67000
+ushort priceSELL: 670

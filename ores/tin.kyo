@@ -1,11 +1,11 @@
 str name: "Tin"
 byte toughness: 1
 byte amount: 0
-int minY: 45
-int maxY: 90
+short minY: 45
+short maxY: 90
 
-uint priceSELL: 7
-uint priceBUY: 355
+ushort priceSELL: 7
+ushort priceBUY: 355
 
 arr<byte> <-dropAMOUNT
     1
