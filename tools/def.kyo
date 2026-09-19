@@ -1,0 +1,8 @@
+str name: "Old Pickaxe"
+byte toughness: 0
+byte durabMAX:  5
+byte durab:     5
+uint price: empty
+obj recipe <==
+byte no: empty
+==>

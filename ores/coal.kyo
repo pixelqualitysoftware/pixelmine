@@ -1,12 +1,12 @@
 str name: "Coal"
 byte toughness: 2
 byte amount: 0
-int minY: -22
-int maxY: 80
+short minY: -22
+short maxY: 80
 | smaller selling price
 | because of big drops
-uint priceSELL: 6
-uint priceBUY: 60
+ushort priceSELL: 6
+ushort priceBUY: 60
 arr<byte> <-dropAMOUNT
         1
         6

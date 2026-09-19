@@ -1,10 +1,10 @@
 str name: "Gold"
 byte toughness: 3
 byte amount: 0
-int maxY: 67
-int minY: -32
-uint priceSELL: 25
-uint priceBUY: 115
+short maxY: 67
+short minY: -32
+ushort priceSELL: 25
+ushort priceBUY: 115
 arr<byte> <-dropAMOUNT
         1
         3

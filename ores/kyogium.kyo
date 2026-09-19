@@ -1,0 +1,10 @@
+str name: "Kyogium"
+byte toughness: 10
+short minY: -250
+short maxY: 25
+arr <-dropAMOUNT
+  2
+  8
+->
+ushort priceSELL: 850
+ushort priceBUY: 8250
