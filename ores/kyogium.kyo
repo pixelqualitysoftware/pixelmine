@@ -8,3 +8,4 @@ arr <-dropAMOUNT
 ->
 ushort priceSELL: 850
 ushort priceBUY: 8250
+ushort hp: 500

@@ -12,3 +12,4 @@ arr<byte> <-dropAMOUNT
         1
         3
 ->
+ushort hp: 25
