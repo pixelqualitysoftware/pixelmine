@@ -1,5 +1,5 @@
 str name: "Steel Pickaxe"
-byte toughness: 7
+byte toughness: 8
 byte durabMAX:  32
 byte durab:     32
 ushort price:   18275
@@ -8,3 +8,4 @@ obj recipe <==
   ushort carbon: 177
 |  ushort wood:  75
 ==>
+ushort dmg: 18

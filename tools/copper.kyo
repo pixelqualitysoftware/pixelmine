@@ -1,9 +1,10 @@
 str name: "Copper Pickaxe"
-byte toughness: 1
-byte durabMAX:  8
-byte durab:     8
-uint price:     1250
+byte toughness: 3
+byte durabMAX:  16
+byte durab:     16
+uint price:     2750
 obj recipe <==
   ushort copper: 564
   ushort iron:   64
 ==>
+ushort dmg: 10
