@@ -1,0 +1,10 @@
+str name: "Titanium Pickaxe"
+byte toughness: 12
+byte durabMAX:  55
+byte durab:     55
+ushort price:   20588
+obj recipe <==
+  ushort iron:   300
+  ushort titanium: 867
+==>
+ushort dmg: 26

@@ -9,3 +9,4 @@ arr<byte> <-dropAMOUNT
         1
         8
 ->
+ushort hp: 50

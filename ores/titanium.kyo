@@ -1,0 +1,11 @@
+str name: "Titanium"
+byte toughness: 4
+short maxY: -30
+short minY: -120
+ushort priceSELL: 45
+ushort priceBUY: 320
+arr<byte> <-dropAMOUNT
+        1
+        2
+->
+ushort hp: 160

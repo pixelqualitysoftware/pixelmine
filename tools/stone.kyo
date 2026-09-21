@@ -1,0 +1,9 @@
+str name: "Stone pickaxe"
+byte toughness: 2
+byte durabMAX: 8
+byte durab:    8
+ushort price   1500
+obj recipe <==
+  byte stone: 270
+==>
+byte dmg: 8

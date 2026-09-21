@@ -1,5 +1,5 @@
 str name: "Iron"
-byte toughness: 1
+byte toughness: 2
 byte amount: 0
 short maxY: 75
 short minY: -42
@@ -9,3 +9,4 @@ arr<byte> <-dropAMOUNT
         1
         4
 ->
+ushort hp: 75
